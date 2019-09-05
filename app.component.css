@@ -1,0 +1,58 @@
+.m-1{
+    margin-left: 80px !important;
+}
+ul {
+    text-align: center;
+  }
+  
+  .textFieldSearch {
+    padding: 5px;
+    margin: 2px;
+    border: 2px solid black;
+    width: 300px;
+  }
+  .leftSlider {
+    width: 1044px;
+    height: 900px;
+    margin: 0px;
+    margin-left: 15px;
+  
+    background-color: lightslategray;
+  }
+  .rightSlider {
+    margin: 2px;
+    width: 300px;
+    height: 900px;
+    background-color: aliceblue;
+  }
+  .buttonReg {
+    margin: 2px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    padding: 2px;
+    
+  
+   
+  }
+  .buttonLogin {
+    margin: 2px;
+    width: 100px;
+    height: 40px;
+    color:white;
+    padding: 2px;
+  
+    
+  }
+  
+  .dropdown {
+    width: 200px;
+    height: 20px;
+    color: white;
+  }
+  .imgCircle{
+    height: 40px;
+    width: 400px;
+
+  }
+  
